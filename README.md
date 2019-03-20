@@ -1,2 +1,2 @@
 # Domain-Indentification
-NLP Applications Course Project.
+NLP Applications (Spring, 2019) Course Project.  
