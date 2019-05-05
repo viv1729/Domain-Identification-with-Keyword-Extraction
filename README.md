@@ -6,9 +6,10 @@ NLA_Final_Report.pdf is the Report for this project.
 
 Domain_Identification_Presentation.pptx is for the Presentation for this project.
 
+Data is present in data/ folder.
+
 Create a directory 'pretrained_embeds/' in the same directory as this repo. Download glove embeddings from http://nlp.stanford.edu/data/glove.6B.zip Unzip it and place file 'glove.6B/' in 'pretrained_embeds/' directory.
 
-Data is present in data/ folder.
 
 ## Running Attention Model
 
