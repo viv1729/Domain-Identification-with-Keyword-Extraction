@@ -6,7 +6,9 @@ NLA_Final_Report.pdf is the Report for this project.
 
 Domain_Identification_Presentation.pptx is for the Presentation for this project.
 
-Data is present in data/ folder.
+Data is present in data/folder. (This is smaller dataset of ~5k news articles.)
+
+Larger dataset link: [https://drive.google.com/open?id=19XEP1zoZVIyhtglttHgg_Xz9uDB_uXz7]
 
 Outputs can be seen in the notebook as explained below, or even in the report.
 
@@ -17,13 +19,13 @@ Create a directory 'pretrained_embeds/' in the same directory as this repo. Down
 
 Please note for all the code to run smoothly, make sure pre-trained glove embeddings are placed at the right place as mentioned above.
 
-attention/ folder contains all the code for attention based keyword extraction model.
+attention/folder contains all the code for attention based keyword extraction model.
 
 Run the Test_input.ipynb to get the outputs for a given article(example outputs can also be seen here).
 
 Run attention/train.py file to train the model if required with any other dataset.
 
-Trained model is saved in the same attention/ directory  with the file name attention_model.pt.
+Trained model is saved in the same attention/directory  with the file name attention_model.pt.
 
 model.py inside attention/ has the code for the definition of the attention model.
 
